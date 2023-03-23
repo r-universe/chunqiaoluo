@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "batteryreduction"]
+	path = batteryreduction
+	url = https://github.com/cran/batteryreduction
+	shallow = true
+	registered = true
+[submodule "patternplot"]
+	path = patternplot
+	url = https://github.com/cran/patternplot
+	shallow = true
+	registered = true
